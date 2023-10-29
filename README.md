@@ -1,8 +1,12 @@
 # daigram
 
+```
+Sahrul Ridwansyah
+312210063
+```
+
+# file diagram perpustakaan
+di sini:
 
 
-
-
-
-[diagram.pdf](https://github.com/sahrul180304/daigram/files/13065410/diagram.pdf)
+[diagram perpustakaan.pdf](https://github.com/sahrul180304/daigram/files/13198640/diagram.perpustakaan.pdf)
